@@ -1,6 +1,7 @@
 This project was carried as part of the course **Mesoscale and Microstructure Modelling**.  
 In this work, we implemented 2D grain growth simulations using the **Fourier spectral method**, the **finite difference method**, and **Active Parameter Tracking (APT)**.
-A full presentation of this work can be found [here]([https://www.canva.com/your-presentation-link](https://www.canva.com/design/DAGmggcxw5s/6tKx80pAkz6QCQKxcvY0Dg/edit?utm_content=DAGmggcxw5s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
+
+A full presentation of this work can be found [here](https://www.canva.com/design/DAG0KwwIXDs/jhNZlvA2mhT-vRivpzDTYA/edit?utm_content=DAG0KwwIXDs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/93a4dfc2-5030-4d28-b9a2-c7c71c89886e" width="45%" />
