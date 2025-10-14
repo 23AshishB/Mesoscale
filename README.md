@@ -8,6 +8,11 @@ A full presentation of this work can be found [here](https://www.canva.com/desig
   <img src="https://github.com/user-attachments/assets/9b0da503-35a4-45ef-a3a2-5a63dd02c20a" width="45%" />
 </p>
 
+Below is the pictorial reprsentation of how APT reduces the average number of active grains in the sample:
+
+<img width="1536" height="735" alt="Screenshot from 2025-10-14 21-57-36" src="https://github.com/user-attachments/assets/432f8b3f-18f1-4dcd-92ff-7662e105f4b0" />
+
+
 ---
 
 ### 📚 References
